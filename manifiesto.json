@@ -1,0 +1,32 @@
+{
+  "name": "Monitor de Equipos Sin Comunicación",
+  "short_name": "Monitor SinCom",
+  "description": "Panel de monitoreo GPS - Equipos sin comunicación (GhostGuard)",
+  "start_url": "./PROTEGIDO_Monitor_SinCom_GG.html",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#e8a020",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "iconos/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "iconos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Equipos Sin Comunicación",
+      "short_name": "SinCom",
+      "url": "./PROTEGIDO_Monitor_SinCom_GG.html",
+      "icons": [
+        { "src": "iconos/icon-192.png", "sizes": "192x192" }
+      ]
+    }
+  ]
+}
